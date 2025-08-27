@@ -18,5 +18,10 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
         {
             return new MapBoxGeoCoder();
         }
+
+        public IRuteador CreateRuteador()
+        {
+            return new MapBoxRuteador();
+        }
     }
 }

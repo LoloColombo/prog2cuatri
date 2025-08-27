@@ -5,3 +5,10 @@ C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\Patro
 C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.CoreCompileInputs.cache
 C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.exe
 C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.pdb
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.exe.config
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.exe
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.pdb
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.AssemblyReference.cache
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.CoreCompileInputs.cache
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.exe
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\prog2cuatri\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.pdb

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmmapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmmapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxmapservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxmapservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googleruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googleruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googlemapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googlemapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googlemapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googlemapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\Program.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\Program.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\Program.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:42:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OsmRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmRuteador.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmRuteador.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmRuteador.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:41:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapBoxRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxRuteador.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxRuteador.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxRuteador.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:38:46.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoogleRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleRuteador.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleRuteador.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleRuteador.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapBoxMapa.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:21.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapboxMapServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapboxMapServiceFactory.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapboxMapServiceFactory.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapboxMapServiceFactory.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapboxMapServiceFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:22.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OsmMapas.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OsmGeoCoder.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OsmMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapServicesFactory.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapServicesFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GoogleMapas.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GoogleMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:17.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Navegador.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\Navegador.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\Navegador.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\Navegador.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\Navegador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:28.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapBoxGeoCoder.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GoogleGeoCoder.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:15.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

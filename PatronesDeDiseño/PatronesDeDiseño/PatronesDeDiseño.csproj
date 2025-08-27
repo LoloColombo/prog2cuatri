@@ -50,9 +50,11 @@
     <Compile Include="ejercicio factory\clases\mapBox\MapBoxGeoCoder.cs" />
     <Compile Include="ejercicio factory\clases\mapBox\MapBoxMapa.cs" />
     <Compile Include="ejercicio factory\clases\mapBox\MapboxMapServiceFactory.cs" />
+    <Compile Include="ejercicio factory\clases\mapBox\MapBoxRuteador.cs" />
     <Compile Include="ejercicio factory\clases\Navegador.cs" />
     <Compile Include="ejercicio factory\clases\osm\OsmGeoCoder.cs" />
     <Compile Include="ejercicio factory\clases\osm\OsmMapas.cs" />
+    <Compile Include="ejercicio factory\clases\osm\OsmRuteador.cs" />
     <Compile Include="ejercicio factory\interfaces\IGeocoder.cs" />
     <Compile Include="ejercicio factory\interfaces\IMapa.cs" />
     <Compile Include="ejercicio factory\interfaces\IMapServicesFactory.cs" />

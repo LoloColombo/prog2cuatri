@@ -18,5 +18,10 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
         {
             return new OsmGeoCoder();
         }
+
+        public IRuteador CreateRuteador()
+        {
+           return new OsmRuteador();
+        }
     }
 }

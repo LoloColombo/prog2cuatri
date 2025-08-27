@@ -16,8 +16,8 @@ namespace PatronesDeDiseño
             IMapServicesFactory factoryOSM = new OsmMapServicesFactory();
             IMapServicesFactory factoryMapBox = new MapboxMapServiceFactory();
 
-            var navegador = new Navegador(factoryGoogle);
-            navegador.Explorador("mar del plata", "-21 -54", "bsas", "newYork");
+            var navegador = new Navegador(factoryMapBox);
+            navegador.Explorador("mar del plata", "-21 -54", "buenos aires", "newYork");
 
             Console.ReadKey();
         }
