@@ -1,0 +1,7 @@
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.exe.config
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.exe
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.pdb
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.AssemblyReference.cache
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.CoreCompileInputs.cache
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.exe
+C:\Users\idra11\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.pdb
