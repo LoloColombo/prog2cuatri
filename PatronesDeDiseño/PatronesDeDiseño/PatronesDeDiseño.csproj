@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejercicio buldier\Cocinero.cs" />
+    <Compile Include="ejercicio buldier\Hamburguesa.cs" />
+    <Compile Include="ejercicio buldier\HamburguesaPersonalizableBuldier.cs" />
+    <Compile Include="ejercicio buldier\IHamburguesaBuldier.cs" />
     <Compile Include="ejercicio factory\clases\google\GoogleGeoCoder.cs" />
     <Compile Include="ejercicio factory\clases\google\GoogleMapas.cs" />
     <Compile Include="ejercicio factory\clases\google\GoogleMapServicesFactory.cs" />
@@ -60,6 +64,7 @@
     <Compile Include="ejercicio factory\interfaces\IMapServicesFactory.cs" />
     <Compile Include="ejercicio factory\clases\osm\OsmMapServicesFactory.cs" />
     <Compile Include="ejercicio factory\interfaces\IRuteador.cs" />
+    <Compile Include="ejercicio singleton\Logger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
