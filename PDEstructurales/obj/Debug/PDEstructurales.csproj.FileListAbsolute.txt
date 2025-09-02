@@ -1,0 +1,7 @@
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\bin\Debug\PDEstructurales.exe.config
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\bin\Debug\PDEstructurales.exe
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\bin\Debug\PDEstructurales.pdb
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\obj\Debug\PDEstructurales.csproj.AssemblyReference.cache
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\obj\Debug\PDEstructurales.csproj.CoreCompileInputs.cache
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\obj\Debug\PDEstructurales.exe
+C:\Users\idra13\source\repos\PDEstructurales\PDEstructurales\obj\Debug\PDEstructurales.pdb
