@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ejercicio buldier\Cocinero.cs" />
+    <Compile Include="ejercicio buldier\DemoBuldier.cs" />
     <Compile Include="ejercicio buldier\Hamburguesa.cs" />
     <Compile Include="ejercicio buldier\HamburguesaPersonalizableBuldier.cs" />
     <Compile Include="ejercicio buldier\IHamburguesaBuldier.cs" />
@@ -59,11 +60,13 @@
     <Compile Include="ejercicio factory\clases\osm\OsmGeoCoder.cs" />
     <Compile Include="ejercicio factory\clases\osm\OsmMapas.cs" />
     <Compile Include="ejercicio factory\clases\osm\OsmRuteador.cs" />
+    <Compile Include="ejercicio factory\DemoFactory.cs" />
     <Compile Include="ejercicio factory\interfaces\IGeocoder.cs" />
     <Compile Include="ejercicio factory\interfaces\IMapa.cs" />
     <Compile Include="ejercicio factory\interfaces\IMapServicesFactory.cs" />
     <Compile Include="ejercicio factory\clases\osm\OsmMapServicesFactory.cs" />
     <Compile Include="ejercicio factory\interfaces\IRuteador.cs" />
+    <Compile Include="ejercicio singleton\DemoSingleton.cs" />
     <Compile Include="ejercicio singleton\Logger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

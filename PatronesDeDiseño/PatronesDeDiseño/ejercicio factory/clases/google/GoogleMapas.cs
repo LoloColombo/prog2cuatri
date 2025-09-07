@@ -9,6 +9,6 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
 {
     public class GoogleMapas :  IMapa
     {
-        public void MostrarMapa(string ubicacion) { Console.WriteLine($"mostrar mapa Google {ubicacion}"); }
+        public void MostrarMapa(string ubicacion) { Console.WriteLine($"mostrar mapa Google de {ubicacion}"); }
     }
 }

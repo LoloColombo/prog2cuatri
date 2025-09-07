@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\decorator\\mensajesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:decorator\\mensajesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\decorator\\mensajedecorador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:decorator\\mensajedecorador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\decorator\\demodecorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:decorator\\demodecorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\decorator\\imensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:decorator\\imensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\decorator\\mensajeencriptado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:decorator\\mensajeencriptado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\decorator\\mensajeconemoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:decorator\\mensajeconemoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\adapter\\iimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:adapter\\iimpresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\adapter\\impresoratermicavieja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:adapter\\impresoratermicavieja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\adapter\\demoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:adapter\\demoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\pdestructurales\\adapter\\adaptadortermica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187FC1FB-5848-4361-8652-E6D9BCAC5CEE}|PDEstructurales.csproj|solutionrelative:adapter\\adaptadortermica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MensajeSimple.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeSimple.cs",
+              "RelativeDocumentMoniker": "decorator\\MensajeSimple.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeSimple.cs",
+              "RelativeToolTip": "decorator\\MensajeSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:08:10.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MensajeEncriptado.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeEncriptado.cs",
+              "RelativeDocumentMoniker": "decorator\\MensajeEncriptado.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeEncriptado.cs",
+              "RelativeToolTip": "decorator\\MensajeEncriptado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:08:03.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MensajeDecorador.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeDecorador.cs",
+              "RelativeDocumentMoniker": "decorator\\MensajeDecorador.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeDecorador.cs",
+              "RelativeToolTip": "decorator\\MensajeDecorador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:57.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MensajeConEmoji.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeConEmoji.cs",
+              "RelativeDocumentMoniker": "decorator\\MensajeConEmoji.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\MensajeConEmoji.cs",
+              "RelativeToolTip": "decorator\\MensajeConEmoji.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMensaje.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\IMensaje.cs",
+              "RelativeDocumentMoniker": "decorator\\IMensaje.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\IMensaje.cs",
+              "RelativeToolTip": "decorator\\IMensaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoDecorate.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\DemoDecorate.cs",
+              "RelativeDocumentMoniker": "decorator\\DemoDecorate.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\decorator\\DemoDecorate.cs",
+              "RelativeToolTip": "decorator\\DemoDecorate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImpresoraTermicaVieja.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\ImpresoraTermicaVieja.cs",
+              "RelativeDocumentMoniker": "adapter\\ImpresoraTermicaVieja.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\ImpresoraTermicaVieja.cs",
+              "RelativeToolTip": "adapter\\ImpresoraTermicaVieja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:42.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IImpresora.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\IImpresora.cs",
+              "RelativeDocumentMoniker": "adapter\\IImpresora.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\IImpresora.cs",
+              "RelativeToolTip": "adapter\\IImpresora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:40.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\DemoAdapter.cs",
+              "RelativeDocumentMoniker": "adapter\\DemoAdapter.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\DemoAdapter.cs",
+              "RelativeToolTip": "adapter\\DemoAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:38.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdaptadorTermica.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\AdaptadorTermica.cs",
+              "RelativeDocumentMoniker": "adapter\\AdaptadorTermica.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PDEstructurales\\adapter\\AdaptadorTermica.cs",
+              "RelativeToolTip": "adapter\\AdaptadorTermica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:07:34.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,6 +9,6 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
 {
     public class OsmGeoCoder : IGeocoder
     {
-        public void BuscarDirecciones(string direccion) { Console.WriteLine($" direccion cordenadas {direccion} OSM"); }
+        public void BuscarDirecciones(string direccion) { Console.WriteLine($" direccion en cordenadas {direccion} de OSM"); }
     }
 }

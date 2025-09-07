@@ -9,6 +9,6 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
 {
     public class MapBoxMapa : IMapa
     {
-        public void MostrarMapa(string ubicacion) { Console.WriteLine($"mostrar mapa mapbox {ubicacion}"); }
+        public void MostrarMapa(string ubicacion) { Console.WriteLine($"mostrar mapa mapbox de {ubicacion}"); }
     }
 }

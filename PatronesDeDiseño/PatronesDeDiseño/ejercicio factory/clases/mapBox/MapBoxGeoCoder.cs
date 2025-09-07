@@ -9,6 +9,6 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
 {
     public class MapBoxGeoCoder : IGeocoder
     {
-        public void BuscarDirecciones(string direccion) { Console.WriteLine($"direccion  cordenadas {direccion} mapbox"); }
+        public void BuscarDirecciones(string direccion) { Console.WriteLine($"direccion en cordenadas {direccion} de mapbox"); }
     }
 }

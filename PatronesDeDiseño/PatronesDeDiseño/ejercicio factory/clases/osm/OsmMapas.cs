@@ -9,6 +9,6 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
 {
     class OsmMapas : IMapa
     {
-        public void MostrarMapa(string ubicacion) { Console.WriteLine($"mostrar mapa OSM {ubicacion}"); }
+        public void MostrarMapa(string ubicacion) { Console.WriteLine($"mostrar mapa OSM de {ubicacion}"); }
     }
 }

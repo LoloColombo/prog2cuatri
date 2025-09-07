@@ -9,6 +9,6 @@ namespace PatronesDeDiseño.ejercicio_factory.clases
 {
     class GoogleGeoCoder : IGeocoder
     {
-        public void BuscarDirecciones(string direccion) { Console.WriteLine($"direccion  cordenadas {direccion} Google"); }
+        public void BuscarDirecciones(string direccion) { Console.WriteLine($"direccion en cordenadas {direccion}  de Google"); }
     }
 }
