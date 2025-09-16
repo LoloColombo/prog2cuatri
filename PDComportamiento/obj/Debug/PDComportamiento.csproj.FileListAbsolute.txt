@@ -1,0 +1,7 @@
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\bin\Debug\PDComportamiento.exe.config
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\bin\Debug\PDComportamiento.exe
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\bin\Debug\PDComportamiento.pdb
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\obj\Debug\PDComportamiento.csproj.AssemblyReference.cache
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\obj\Debug\PDComportamiento.csproj.CoreCompileInputs.cache
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\obj\Debug\PDComportamiento.exe
+C:\Users\chedraui\OneDrive\Documentos\facultad\2 año\Programacion 2\PDComportamiento\obj\Debug\PDComportamiento.pdb

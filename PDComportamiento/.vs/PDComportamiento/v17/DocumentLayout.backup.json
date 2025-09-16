@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\democommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\democommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\pdcomportamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\carritoinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\carritoinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\quitaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\quitaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\agregaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\agregaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\cambiarcantidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\cambiarcantidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\strategy\\demostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:strategy\\demostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\observer\\demoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:observer\\demoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\observer\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:observer\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\observer\\pedidochangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:observer\\pedidochangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\observer\\panellogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:observer\\panellogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\observer\\notificadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:observer\\notificadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\observer\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:observer\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\strategy\\topebanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:strategy\\topebanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\strategy\\porcentaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:strategy\\porcentaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\strategy\\sindescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:strategy\\sindescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\strategy\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:strategy\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\strategy\\idescuentostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC96B756-1C74-4010-B608-40CB9D86741D}|PDComportamiento.csproj|solutionrelative:strategy\\idescuentostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\Carrito.cs",
+              "RelativeDocumentMoniker": "Command\\Carrito.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\Carrito.cs",
+              "RelativeToolTip": "Command\\Carrito.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:40:10.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:45:36.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\DemoCommand.cs",
+              "RelativeDocumentMoniker": "Command\\DemoCommand.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\DemoCommand.cs",
+              "RelativeToolTip": "Command\\DemoCommand.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv2kAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:18:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CambiarCantidadCommand.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\CambiarCantidadCommand.cs",
+              "RelativeDocumentMoniker": "Command\\CambiarCantidadCommand.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\CambiarCantidadCommand.cs",
+              "RelativeToolTip": "Command\\CambiarCantidadCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:35:51.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\Item.cs",
+              "RelativeDocumentMoniker": "Command\\Item.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\Item.cs",
+              "RelativeToolTip": "Command\\Item.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:32:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuitarItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\QuitarItemCommand.cs",
+              "RelativeDocumentMoniker": "Command\\QuitarItemCommand.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\QuitarItemCommand.cs",
+              "RelativeToolTip": "Command\\QuitarItemCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:28:30.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarritoInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\CarritoInvoker.cs",
+              "RelativeDocumentMoniker": "Command\\CarritoInvoker.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\CarritoInvoker.cs",
+              "RelativeToolTip": "Command\\CarritoInvoker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:46:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MacroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\MacroCommand.cs",
+              "RelativeDocumentMoniker": "Command\\MacroCommand.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\MacroCommand.cs",
+              "RelativeToolTip": "Command\\MacroCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:08:27.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\AgregarItemCommand.cs",
+              "RelativeDocumentMoniker": "Command\\AgregarItemCommand.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\AgregarItemCommand.cs",
+              "RelativeToolTip": "Command\\AgregarItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:21:10.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DemoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\DemoStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\DemoStrategy.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\DemoStrategy.cs",
+              "RelativeToolTip": "Strategy\\DemoStrategy.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:12:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoObserver.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\DemoObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\DemoObserver.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\DemoObserver.cs",
+              "RelativeToolTip": "Observer\\DemoObserver.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:21:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Command\\ICommand.cs",
+              "RelativeToolTip": "Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:14:25.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Observer\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\PedidoService.cs",
+              "RelativeToolTip": "Observer\\PedidoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:55:16.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidoChangedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\PedidoChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "Observer\\PedidoChangedEventArgs.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\PedidoChangedEventArgs.cs",
+              "RelativeToolTip": "Observer\\PedidoChangedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:45:19.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PanelLogistica.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\PanelLogistica.cs",
+              "RelativeDocumentMoniker": "Observer\\PanelLogistica.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\PanelLogistica.cs",
+              "RelativeToolTip": "Observer\\PanelLogistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:12:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\Estados.cs",
+              "RelativeDocumentMoniker": "Observer\\Estados.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\Estados.cs",
+              "RelativeToolTip": "Observer\\Estados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:40:19.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificadorCliente.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\NotificadorCliente.cs",
+              "RelativeDocumentMoniker": "Observer\\NotificadorCliente.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Observer\\NotificadorCliente.cs",
+              "RelativeToolTip": "Observer\\NotificadorCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T22:54:00.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDescuentoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\IDescuentoStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\IDescuentoStrategy.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\IDescuentoStrategy.cs",
+              "RelativeToolTip": "Strategy\\IDescuentoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:52:52.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\Carrito.cs",
+              "RelativeDocumentMoniker": "Strategy\\Carrito.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\Carrito.cs",
+              "RelativeToolTip": "Strategy\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:01:42.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Porcentaje.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\Porcentaje.cs",
+              "RelativeDocumentMoniker": "Strategy\\Porcentaje.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\Porcentaje.cs",
+              "RelativeToolTip": "Strategy\\Porcentaje.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:56:28.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SinDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\SinDescuento.cs",
+              "RelativeDocumentMoniker": "Strategy\\SinDescuento.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\SinDescuento.cs",
+              "RelativeToolTip": "Strategy\\SinDescuento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:54:43.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TopeBanco.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\TopeBanco.cs",
+              "RelativeDocumentMoniker": "Strategy\\TopeBanco.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\PDComportamiento\\Strategy\\TopeBanco.cs",
+              "RelativeToolTip": "Strategy\\TopeBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:59:51.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
