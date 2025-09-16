@@ -19,7 +19,7 @@ namespace PatronesDeDiseño.ejercicio_singleton
         private Logger() { _logs = new List<string>();
             Console.WriteLine("Logger Inicializado");
         }
-        // 4. API pública (métodos para interactuar con el Logger)
+        // 4. métodos para interactuar con el Logger
         public void Info(string message) 
         {
             string msgLog = $"[INFO]{message}";

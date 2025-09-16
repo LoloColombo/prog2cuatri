@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio singleton\\demosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio singleton\\demosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\ejercicio singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\clases\\osm\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +43,12 @@
       "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\clases\\mapbox\\mapboxmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\demofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\ejercicio factory\\demofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio factory\\demofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|c:\\users\\chedraui\\onedrive\\documentos\\facultad\\2 a\u00F1o\\programacion 2\\prog2cuatri\\patronesdedise\u00F1o\\patronesdedise\u00F1o\\ejercicio buldier\\demobuldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\ejercicio buldier\\demobuldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio buldier\\demobuldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\ejercicio singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|solutionrelative:patronesdedise\u00F1o\\ejercicio singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5627A66-8F28-49E3-8348-0A6A969981F4}|PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o.csproj|C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\patronesdedise\u00F1o\\ejercicio buldier\\hamburguesapersonalizablebuldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,24 +98,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DemoSingleton.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio singleton\\DemoSingleton.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio singleton\\DemoSingleton.cs",
               "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio singleton\\DemoSingleton.cs",
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio singleton\\DemoSingleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T18:23:03.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\Program.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\Program.cs",
@@ -123,12 +123,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:42:31.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:42:31.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OsmMapas.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
@@ -136,12 +135,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmMapas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:25.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:25.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GoogleMapas.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
@@ -149,12 +147,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:16.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:16.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GoogleMapServicesFactory.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
@@ -162,12 +159,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleMapServicesFactory.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:17.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:17.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GoogleGeoCoder.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
@@ -175,12 +171,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\google\\GoogleGeoCoder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:15.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:15.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MapBoxGeoCoder.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
@@ -188,8 +183,7 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxGeoCoder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:21.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:21.275Z"
             },
             {
               "$type": "Document",
@@ -205,7 +199,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs",
+              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs",
+              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs*",
+              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T00:17:02.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OsmGeoCoder.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
@@ -213,12 +220,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\osm\\OsmGeoCoder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:24.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:24.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MapBoxMapa.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
@@ -226,8 +232,7 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\clases\\mapBox\\MapBoxMapa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:37:21.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:37:21.943Z"
             },
             {
               "$type": "Document",
@@ -280,18 +285,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs",
-              "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs",
-              "ToolTip": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs",
-              "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio singleton\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T00:17:02.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "DemoBuldier.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio buldier\\DemoBuldier.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio buldier\\DemoBuldier.cs",
@@ -299,12 +292,11 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio buldier\\DemoBuldier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T18:16:35.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T18:16:35.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DemoFactory.cs",
               "DocumentMoniker": "C:\\Users\\chedraui\\OneDrive\\Documentos\\facultad\\2 a\u00F1o\\Programacion 2\\prog2cuatri\\PatronesDeDise\u00F1o\\PatronesDeDise\u00F1o\\ejercicio factory\\DemoFactory.cs",
               "RelativeDocumentMoniker": "PatronesDeDise\u00F1o\\ejercicio factory\\DemoFactory.cs",
@@ -312,8 +304,7 @@
               "RelativeToolTip": "PatronesDeDise\u00F1o\\ejercicio factory\\DemoFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T18:18:56.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T18:18:56.564Z"
             },
             {
               "$type": "Document",
